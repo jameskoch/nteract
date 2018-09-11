@@ -11172,11 +11172,17 @@ rxjs@6.2.2, rxjs@^6.1.0:
   dependencies:
     tslib "^1.9.0"
 
-rxjs@^5.1.1, rxjs@^5.5.2, rxjs@^5.5.6:
+rxjs@^5.1.1, rxjs@^5.5.2:
   version "5.5.11"
   resolved "https://registry.npmjs.org/rxjs/-/rxjs-5.5.11.tgz#f733027ca43e3bec6b994473be4ab98ad43ced87"
   dependencies:
     symbol-observable "1.0.1"
+
+rxjs@^6.0.0:
+  version "6.3.2"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-6.3.2.tgz#6a688b16c4e6e980e62ea805ec30648e1c60907f"
+  dependencies:
+    tslib "^1.9.0"
 
 s3-proxy@^1.1.0:
   version "1.1.1"
